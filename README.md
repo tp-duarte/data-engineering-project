@@ -2,4 +2,4 @@
 
 In this project, data from the IFC institute in Santa Catarina, Brazil, was extracted from the [**dados.gov**](https://dados.gov.br/dados/conjuntos-dados/projetos-de-natureza-cientifica-tecnologica-e-ou-de-inovacao-com-fomento-do-proprio-ifc) platform and uploaded to the 'inovacao' database through the 'projeto' table.
 
-An executable <span style="color:#009e99">**.bat**</span> file runs the entire process in production creating first the database and table, and then the data insertion to the SQL database table with a Python script.
+An executable <code><font color="#009e99">.bat</font></code> file runs the entire process in production creating first the database and table, and then the data insertion to the SQL database table with a Python script.
