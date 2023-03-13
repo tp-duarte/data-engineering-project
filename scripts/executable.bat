@@ -5,7 +5,7 @@ rem monitor inovation data that is feeded with a python script
 
 
 
-cd D:\opensense\projeto\script
+cd data-engineering-project\scripts
 
 set PGPASSWORD=admin
 psql -h localhost -d postgres -U postgres -w -f database_and_tables_creation.sql
